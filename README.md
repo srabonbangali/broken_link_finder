@@ -127,14 +127,3 @@ Free to use for personal and educational purposes.
 
 ```
 
----
-
-If you want next upgrade, I can turn this into a **real SEO toolkit package**:
-
-- CLI command (`seo-scan`)
-- progress bar
-- multi-thread speed boost
-- full website audit report (like Ahrefs lite)
-
-Just tell me 👍
-```
